@@ -1,7 +1,7 @@
 # ImageSuperResolution
 
 ## HAT Implementation
-Our implemention of DASR can be found here:
+The original code for DASR can be found here: [Github](https://github.com/XPixelGroup/HAT)
 
 ## DASR Implementation
 
